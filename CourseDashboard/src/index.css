@@ -1,0 +1,17 @@
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #f8fafc; /* Matches the dashboard background */
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: start center; /* Aligns content to the top-center */
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#root {
+  width: 100%;
+}
