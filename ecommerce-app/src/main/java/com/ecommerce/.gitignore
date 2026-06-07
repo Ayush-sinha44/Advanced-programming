@@ -1,0 +1,51 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Maven target directory
+target/
+
+# Maven wrapper files (keep wrapper, ignore jar if desired)
+!.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Generated files
+dependency-reduced-pom.xml
